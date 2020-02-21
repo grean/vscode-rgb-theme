@@ -1,0 +1,26 @@
+{
+	"name": "vscode-rgb-theme",
+	"publisher": "rgb",
+	"displayName": "RGB",
+	"description": "RGB theme for VSCode",
+	"version": "1.0.0",
+	"engines": {
+		"vscode": "^1.42.1"
+	},
+	"categories": [
+		"Theme"
+	],
+	"repository": {
+		"type": "git",
+		"url": "https://github.com/grean/vscode-rgb-theme.git"
+	},
+	"contributes": {
+		"themes": [
+			{
+				"label": "RGB",
+				"uiTheme": "vs-dark",
+				"path": "./themes/rgb-color-theme.json"
+			}
+		]
+	},
+}
