@@ -9,7 +9,7 @@
 		"vscode": "^1.42.1"
 	},
 	"categories": [
-		"Theme"
+		"Themes"
 	],
 	"keywords": [
 		"React",
@@ -24,7 +24,7 @@
 	"contributes": {
 		"themes": [
 			{
-				"label": "RGB",
+				"label": "RGB Theme",
 				"uiTheme": "vs-dark",
 				"path": "./themes/rgb-color-theme.json"
 			}
