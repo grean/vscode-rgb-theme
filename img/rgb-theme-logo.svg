@@ -1,0 +1,120 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   xmlns:osb="http://www.openswatchbook.org/uri/2009/osb"
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   sodipodi:docname="vscode_dark_plus_plus_logo.svg"
+   inkscape:version="1.0beta2 (2b71d25, 2019-12-03)"
+   id="svg3336"
+   version="1.1"
+   viewBox="0 0 128 128"
+   height="128"
+   width="128">
+  <metadata
+     id="metadata3352">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title>vscode_dark_plus_plus_logo</dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <sodipodi:namedview
+     inkscape:document-rotation="0"
+     inkscape:current-layer="layer4"
+     inkscape:window-maximized="1"
+     inkscape:window-y="23"
+     inkscape:window-x="0"
+     inkscape:cy="38.274129"
+     inkscape:cx="126.36517"
+     inkscape:zoom="2.8284271"
+     showgrid="false"
+     id="namedview3350"
+     inkscape:window-height="956"
+     inkscape:window-width="1680"
+     inkscape:pageshadow="2"
+     inkscape:pageopacity="0"
+     guidetolerance="10"
+     gridtolerance="10"
+     objecttolerance="10"
+     borderopacity="1"
+     bordercolor="#666666"
+     pagecolor="#ffffff" />
+  <!-- Generator: Sketch 39.1 (31720) - http://www.bohemiancoding.com/sketch -->
+  <title
+     id="title3338">vscode_dark_plus_plus_logo</title>
+  <desc
+     id="desc3340">Created with Sketch.</desc>
+  <defs
+     id="defs3342">
+    <linearGradient
+       osb:paint="gradient"
+       id="linearGradient5717">
+      <stop
+         id="stop5719"
+         offset="0"
+         style="stop-color:#00ff00;stop-opacity:1;" />
+      <stop
+         id="stop5721"
+         offset="1"
+         style="stop-color:#00ff00;stop-opacity:0;" />
+    </linearGradient>
+  </defs>
+  <g
+     transform="translate(11.710271,-376.92757)"
+     style="fill:none;fill-rule:evenodd;stroke:none;stroke-width:1"
+     id="Page-1" />
+  <g
+     transform="translate(0,-384)"
+     style="display:inline"
+     inkscape:label="Layer 2"
+     id="layer4"
+     inkscape:groupmode="layer">
+    <path
+       inkscape:connector-curvature="0"
+       style="fill:#960096;fill-opacity:1;fill-rule:evenodd;stroke:#ffffff;stroke-width:3.9917655;stroke-miterlimit:4;stroke-dasharray:none;opacity:1"
+       d="m 99.195437,397.59039 -22.189242,-8.89476 -38.731581,37.71826 -23.323824,-17.75486 -8.8687693,4.46035 -0.00887,46.56104 8.8272413,4.42829 23.304732,-17.7401 38.826855,37.68362 22.171925,-8.86011 z"
+       id="path2998-6" />
+    <path
+       inkscape:connector-curvature="0"
+       style="fill:#ffffff;fill-rule:evenodd;stroke:none;stroke-width:1"
+       d="m 52.634394,436.32197 22.171926,16.69823 -0.0086,-33.26656 z"
+       id="path3000-0" />
+    <path
+       inkscape:connector-curvature="0"
+       style="fill:#ffffff;fill-rule:evenodd;stroke:none;stroke-width:1"
+       d="m 17.167614,446.36081 11.072527,-10.0314 -11.085838,-9.8967 z"
+       id="path3002-2" />
+    <flowRoot
+       transform="matrix(0.25,0,0,0.25,5.2648077,388.36024)"
+       xml:space="preserve"
+       id="flowRoot5735"
+       style="font-style:normal;font-weight:normal;line-height:0.01%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"><flowRegion
+         id="flowRegion5737"><rect
+           id="rect5739"
+           width="51.618793"
+           height="42.426407"
+           x="121.62237"
+           y="444.82486" /></flowRegion><flowPara
+         style="font-size:40px;line-height:1.25"
+         id="flowPara5741"> </flowPara></flowRoot>
+    <text
+       id="text855"
+       y="509.86499"
+       x="41.719303"
+       style="font-style:normal;font-weight:normal;font-size:40px;line-height:1.25;font-family:sans-serif;fill:#960096;fill-opacity:1;stroke:none;"
+       xml:space="preserve"><tspan
+         y="509.86499"
+         x="41.719303"
+         id="tspan853"
+         sodipodi:role="line">RGB</tspan></text>
+  </g>
+</svg>
