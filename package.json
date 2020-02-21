@@ -3,7 +3,7 @@
 	"publisher": "RGB",
 	"displayName": "RGB Theme",
 	"description": "Improved color contrast for React/JSX/TSX code",
-	"icon": "img/rgb-theme-logo.svg",
+	"icon": "img/rgb-theme-logo.png",
 	"version": "1.0.0",
 	"engines": {
 		"vscode": "^1.42.1"
