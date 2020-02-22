@@ -8,7 +8,7 @@ To modify the theme, you can use : shift + cmd + p to open vscode command line a
 "Developer: Inspect Editor Tokens and Scopes"
 Then under your mouse´s cursor you can know the identifier of a field that you want to change or add the color.
 
-### Improved TS/JSX/JS attribute color contrast
+### Improved SX attribute color contrast
 ![Theme preview](https://raw.githubusercontent.com/grean/vscode-rgb-theme/master/img/themePreview.png)
 
 </div>
