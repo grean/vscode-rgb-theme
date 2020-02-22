@@ -771,6 +771,7 @@
 		{
 			"name": "Types declaration and references, TS grammar specific",
 			"scope": [
+				// "meta.preprocessor.string",
 				"meta.type.cast.expr",
 				"meta.type.new.expr",
 				"support.constant.math",
@@ -822,9 +823,21 @@
 			"name": "Object keys, TS grammar specific",
 			"scope": [
 				"meta.object-literal.key",
+				"variable.object.property.ts",
+				"entity.name.function.ts",
 			],
 			"settings": {
 				"foreground": "#9ed16d"
+			}
+		},
+		{
+			"name": "Typescript types",
+			"scope": [
+				"entity.name.type.interface.ts",
+				"entity.name.type.ts",
+			],
+			"settings": {
+				"foreground": "#d6cd56"
 			}
 		},
 		{
